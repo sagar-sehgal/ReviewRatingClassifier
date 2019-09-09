@@ -1,0 +1,9 @@
+sklearn
+pandas
+numpy
+nltk
+imblearn
+xgboost
+joblib
+wordcloud
+matplotlib
