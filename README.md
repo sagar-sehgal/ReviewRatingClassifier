@@ -1,4 +1,3 @@
-
 # REVIEW RATING PREDICTION
 
 ### How to install
@@ -57,3 +56,4 @@ To test the classifier, run the following command:-
 python3 test_tfidf.py
 ``` 
 A `src/submission_tfidf.csv`  would be produced as a result of this.
+
